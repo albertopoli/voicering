@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/PTTBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="doPTT"
+            android:text="@string/PTTBtn" />
+
+        <Button
+            android:id="@+id/restartBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/PTTBtn"
+            android:layout_alignTop="@+id/PTTBtn"
+            android:onClick="doRestart"
+            android:text="@string/restartBtn"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/te"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|clip_vertical"
+        android:scrollHorizontally="true"
+        android:scrollbars="horizontal|vertical"
+        android:textColor="#000"
+        android:textSize="5pt"
+        android:typeface="monospace" />
+
+</LinearLayout>
