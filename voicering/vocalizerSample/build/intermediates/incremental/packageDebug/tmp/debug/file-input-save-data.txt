@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Fri Sep 28 14:36:30 CEST 2018
+7.path=lib/armeabi/libNuanceVocalizer.so
+2.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\assets\\debug
+5.set=DEX
+0.path=vocalizer/enu_ava_embedded-compact_1-0-0.xmf
+2.baseType=DIRECTORY
+3.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\assets\\debug
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=vocalizer/sysdct.xmf
+4.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\assets\\debug
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=vocalizer/synth_med_fxd_bet3f22.xmf
+5.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+4.set=ASSET
+3.path=vocalizer/ve_pipeline_enu_ava_22_embedded-compact_1-0-0.jet
+6.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=vocalizer/clm.xmf
+7.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=classes.dex
+0.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=vocalizer/lid.xmf
+1.base=D\:\\SavonaAndroid\\AndroidPrj\\voicering\\vocalizerSample\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
